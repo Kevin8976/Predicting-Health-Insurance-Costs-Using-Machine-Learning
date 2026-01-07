@@ -43,7 +43,7 @@ Saved preprocessing objects:
 
 ---
 
-## 🤖 Models Trained
+## Models Trained
 
 The following regression models were implemented and compared:
 
